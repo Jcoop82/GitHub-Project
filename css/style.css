@@ -17,3 +17,11 @@ body{
     width: 50%;    
 }
 
+.col-2 img{
+    height: 300px;
+    width: 400px;
+}
+
+.col-2 ul{
+    list-style: none;
+}
