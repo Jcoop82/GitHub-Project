@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+.container{
+    border: solid navy 3px;
+}
+
+.row{
+    display: flex;
+    flex-flow: row;
+    margin: 15px auto;
+}
+
+.col-2{
+    width: 50%;    
+}
+
