@@ -26,3 +26,10 @@ body{
 .col-2 ul{
     list-style: none;
 }
+
+@media (max-width 100px){
+    .container{
+        background-color:grey;
+        
+    }
+}
